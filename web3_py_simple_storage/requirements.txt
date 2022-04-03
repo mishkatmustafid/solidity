@@ -1,0 +1,8 @@
+certifi==2021.10.8
+charset-normalizer==2.0.12
+idna==3.3
+py-solc-x==1.1.1
+requests==2.27.1
+semantic-version==2.9.0
+solc==0.0.0a0
+urllib3==1.26.8
