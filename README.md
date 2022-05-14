@@ -6,12 +6,10 @@ Practicing solidity programming for smart contract development
 <strong>Project 2</strong>: Brownie Simple Storage </br>
 <strong>Project 3</strong>: Brownie Fund Me </br>
 <strong>Project 4</strong>: SmartContract Lottery </br>
-<strong>Project 5</strong>: Chainlink Mix </br>
-<strong>Project 6</strong>: ERC20s, EIPs, and Token Standards </br>
-<strong>Project 7</strong>: Defi & Aave </br>
-<strong>Project 8</strong>: NFTs </br>
-<strong>Project 9</strong>: Upgrades </br>
-<strong>Project 10</strong>: Full Stack Defi </br>
+<strong>Project 5</strong>: Defi & Aave </br>
+<strong>Project 6</strong>: NFTs </br>
+<strong>Project 7</strong>: Upgrades </br>
+<strong>Project 8</strong>: Full Stack Defi </br>
 
 ## Some notes
 
