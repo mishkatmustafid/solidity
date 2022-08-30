@@ -22,3 +22,6 @@ Practicing solidity programming for smart contract development
   <li>Custom mainnet-fork: Optional</li>
   <li>Self/Local Ganache: Not necessary, but good for tinkering</li>
 </ol>
+
+<strong>Unit Tests:</strong> Development Network</br>
+<strong>Integration Test:</strong> Testnet
