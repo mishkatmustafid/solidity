@@ -6,7 +6,6 @@ from brownie import (
     VRFCoordinatorMock,
     LinkToken,
     Contract,
-    interface,
 )
 
 FORKED_LOCAL_ENVIRONMENTS = ["mainnet-fork", "mainnet-fork-dev"]
