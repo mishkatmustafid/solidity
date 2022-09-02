@@ -25,3 +25,6 @@ Practicing solidity programming for smart contract development
 
 <strong>Unit Tests:</strong> Development Network</br>
 <strong>Integration Test:</strong> Testnet
+
+Default Testing Network: Development with Mocking
+If you have no oracles you can use mainnet-fork for testing
