@@ -11,7 +11,7 @@ dev_deployment_artifacts: True
 networks:
   development:
     verify: False
-  ganache:
+  ganache-local:
     verify: False
   kovan:
     verify: True
