@@ -6,7 +6,7 @@ import json
 import os
 import shutil
 
-KEPT_BALANCE = Web3.toWei(100, "ether")
+KEPT_BALANCE = Web3.toWei(0.1, "ether")
 
 
 def deploy_token_farm_and_dapp_token(front_end_update=False):
